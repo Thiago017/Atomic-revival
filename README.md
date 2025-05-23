@@ -5,7 +5,7 @@ Combina a interface do [Atomize](https://github.com/emroussel/atomize) com a col
 
 ---
 
-## ✨ Por que "Atom Legacy"?
+## ✨ Por que "Atomic revival"?
 
 O Visual Studio Code é rápido e poderoso, mas muitos ainda sentem falta da estética limpa e precisa do editor Atom. Este tema foi criado para preservar essa identidade visual, oferecendo:
 
