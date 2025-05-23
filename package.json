@@ -1,0 +1,42 @@
+{
+  "name": "atomic-revival",
+  "displayName": "Atomic Revival",
+  "description": "A detailed and accurate Atom One Dark Theme (Atomic revival)",
+  "version": "1.0.0",
+  "publisher": "codedbythiago",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "codedbythiago"
+  },
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "color",
+    "theme",
+    "atom",
+    "dark",
+    "one dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atomic Revival",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atomic-revival.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "__metadata": {
+    "id": "b33f4b00-b7b4-4259-a263-eab2d86ac79b",
+    "publisherDisplayName": "codebythiago",
+    "publisherId": "ef208bcb-6f04-4154-9969-7fdfdf7c525f"
+  }
+}
