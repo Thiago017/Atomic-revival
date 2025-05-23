@@ -1,5 +1,7 @@
 # Atomic revival
 
+> **Nota:** Este tema é uma junção/adaptação dos projetos [Atomize](https://github.com/emroussel/atomize) (por Emmanuel Roussel) e [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) (por Binaryify). Ambos os projetos originais estão sob licença MIT e seus autores são devidamente creditados abaixo.
+
 **O tema Visual Studio Code mais fiel ao clássico Atom One Dark.**  
 Combina a interface do [Atomize](https://github.com/emroussel/atomize) com a colorização de sintaxe do [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), oferecendo uma experiência nostálgica e moderna ao mesmo tempo.
 

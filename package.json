@@ -59,5 +59,15 @@
     "id": "b33f4b00-b7b4-4259-a263-eab2d86ac79b",
     "publisherDisplayName": "codebythiago",
     "publisherId": "ef208bcb-6f04-4154-9969-7fdfdf7c525f"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Emmanuel Roussel",
+      "url": "https://github.com/emroussel"
+    },
+    {
+      "name": "Binaryify",
+      "url": "https://github.com/Binaryify"
+    }
+  ]
 }
