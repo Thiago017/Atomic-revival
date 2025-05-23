@@ -467,8 +467,15 @@
       }
     },
     {
-      "name": "js/ts variable.other.constant",
+      "name": "variable.other.constant",
       "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "js/ts variable.other.constant",
+      "scope": "variable.other.constant.js,variable.other.constant.ts",
       "settings": {
         "foreground": "#e5c07b"
       }
@@ -2311,6 +2318,83 @@
       "scope": ["punctuation.section.embedded.begin.php"],
       "settings": {
         "foreground": "#BE5046"
+      }
+    },
+    {
+      "name": "punctuation.support.type.property-name.json",
+      "scope": "punctuation.support.type.property-name.begin.json,punctuation.support.type.property-name.end.json",
+      "settings": {
+        "foreground": "#98c379"
+      }
+    },
+    {
+      "name": "support.function.construct.output.php",
+      "scope": "support.function.construct.output.php",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "keyword.operator.string.php",
+      "scope": "keyword.operator.string.php",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "constant.language.import-export-all.js",
+      "scope": "constant.language.import-export-all.js",
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "meta.object-literal.key.js",
+      "scope": "meta.object-literal.key.js",
+      "settings": {
+        "foreground": "#D19A66"
+      }
+    },
+    {
+      "name": "keyword.operator.increment.js",
+      "scope": "keyword.operator.increment.js",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "keyword.operator.assignment.js",
+      "scope": "keyword.operator.assignment.js",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "keyword.operator.assignment.compound.js",
+      "scope": "keyword.operator.assignment.compound.js",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "keyword.operator.relational.js",
+      "scope": "keyword.operator.relational.js",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "punctuation.accessor.js",
+      "scope": "punctuation.accessor.js",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "variable.language.this.js",
+      "scope": "variable.language.this.js",
+      "settings": {
+        "foreground": "#E06C75"
       }
     }
   ]
