@@ -34,6 +34,27 @@
     "color": "#282C34",
     "theme": "dark"
   },
+  "scripts": {
+    "fix": "prettier '**/*.{js,jsx,ts,tsx,json,md,yml}' --write",
+    "lint": "prettier '**/*.{js,jsx,ts,tsx,json,md,yml}' --check",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx,json,md,yml}": "npm run fix"
+  },
+  "bugs": {
+    "url": "https://github.com/Thiago017/Atomic-revival/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thiago017/Atomic-revival"
+  },
+  "homepage": "https://github.com/Thiago017/Atomic-revival/blob/main/README.md",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.1",
+    "prettier": "2.6.2"
+  },
   "__metadata": {
     "id": "b33f4b00-b7b4-4259-a263-eab2d86ac79b",
     "publisherDisplayName": "codebythiago",
