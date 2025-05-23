@@ -19,9 +19,9 @@ O Visual Studio Code é rápido e poderoso, mas muitos ainda sentem falta da est
 
 > Este tema será publicado na Visual Studio Code Marketplace como `Atomic revival`.
 
-1. Abra o VS Code  
-2. Vá até a aba de extensões (⌘ + ⇧ + X)  
-3. Procure por `Atomic revival`  
+1. Abra o VS Code
+2. Vá até a aba de extensões (⌘ + ⇧ + X)
+3. Procure por `Atomic revival`
 4. Clique em instalar e selecione o tema
 
 ---
@@ -53,8 +53,7 @@ Para uma experiência visual ainda mais próxima do Atom:
 }
 ```
 
-___
-
+---
 
 ## Créditos
 
