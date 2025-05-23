@@ -62,9 +62,9 @@ Para uma experiência visual ainda mais próxima do Atom:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE.txt) para detalhes.
 
 Os temas originais usados neste projeto também estão licenciados sob a Licença MIT. As licenças individuais podem ser encontradas em:
 
-- [LICENSE-ATOMIZE](./LICENSE-ATOMIZE)
-- [LICENSE-ONEDARKPRO](./LICENSE-ONEDARKPRO)
+- [LICENSE-ATOMIZE](./LICENSE-ATOMIZE.txt)
+- [LICENSE-ONEDARKPRO](./LICENSE-ONEDARKPRO.txt)
