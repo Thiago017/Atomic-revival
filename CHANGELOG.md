@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Translated README to English
+
 ## 1.0.1
 
 - Adjusted color for JavasScript constants
