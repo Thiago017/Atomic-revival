@@ -1,36 +1,36 @@
 # Atomic revival
 
-> **Nota:** Este tema é uma junção/adaptação dos projetos [Atomize](https://github.com/emroussel/atomize) (por Emmanuel Roussel) e [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) (por Binaryify). Ambos os projetos originais estão sob licença MIT e seus autores são devidamente creditados abaixo.
+> **Note:** This theme is a combination/adaptation of the projects [Atomize](https://github.com/emroussel/atomize) (by Emmanuel Roussel) and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) (by Binaryify). Both original projects are under the MIT license and their authors are duly credited below.
 
-**O tema Visual Studio Code mais fiel ao clássico Atom One Dark.**  
-Combina a interface do [Atomize](https://github.com/emroussel/atomize) com a colorização de sintaxe do [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), oferecendo uma experiência nostálgica e moderna ao mesmo tempo.
-
----
-
-## ✨ Por que "Atomic revival"?
-
-O Visual Studio Code é rápido e poderoso, mas muitos ainda sentem falta da estética limpa e precisa do editor Atom. Este tema foi criado para preservar essa identidade visual, oferecendo:
-
-- UI inspirada no Atom via **Atomize**
-- Color scheme autêntico do **One Dark Pro**
-- Ajustes visuais adicionais para maior fidelidade
+**The most faithful Visual Studio Code theme to the classic Atom One Dark.**  
+It combines the interface from [Atomize](https://github.com/emroussel/atomize) with the syntax highlighting from [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), offering a nostalgic and modern experience at the same time.
 
 ---
 
-## 📦 Instalação
+## ✨ Why "Atomic revival"?
 
-> Este tema será publicado na Visual Studio Code Marketplace como `Atomic revival`.
+Visual Studio Code is fast and powerful, but many still miss the clean and precise aesthetics of the Atom editor. This theme was created to preserve that visual identity, offering:
 
-1. Abra o VS Code
-2. Vá até a aba de extensões (⌘ + ⇧ + X)
-3. Procure por `Atomic revival`
-4. Clique em instalar e selecione o tema
+- Atom-inspired UI via **Atomize**
+- Authentic color scheme from **One Dark Pro**
+- Additional visual tweaks for greater fidelity
 
 ---
 
-## ⚙️ Configuração recomendada
+## 📦 Installation
 
-Para uma experiência visual ainda mais próxima do Atom:
+> This theme will be published on the Visual Studio Code Marketplace as `Atomic revival`.
+
+1. Open VS Code
+2. Go to the extensions tab (⌘ + ⇧ + X)
+3. Search for `Atomic revival`
+4. Click install and select the theme
+
+---
+
+## ⚙️ Recommended configuration
+
+For an experience even closer to Atom:
 
 ```json
 {
@@ -57,16 +57,16 @@ Para uma experiência visual ainda mais próxima do Atom:
 
 ---
 
-## Créditos
+## Credits
 
-- **UI e estrutura base:** [Atomize](https://github.com/emroussel/atomize) por emroussel
-- **Color scheme (syntax highlighting):** [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) por Binaryify
+- **UI and base structure:** [Atomize](https://github.com/emroussel/atomize) by emroussel
+- **Color scheme (syntax highlighting):** [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) by Binaryify
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE.txt) para detalhes.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
-Os temas originais usados neste projeto também estão licenciados sob a Licença MIT. As licenças individuais podem ser encontradas em:
+The original themes used in this project are also licensed under the MIT License. Individual licenses can be found at:
 
 - [LICENSE-ATOMIZE](./LICENSE-ATOMIZE.txt)
 - [LICENSE-ONEDARKPRO](./LICENSE-ONEDARKPRO.txt)
